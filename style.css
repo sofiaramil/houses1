@@ -1,4 +1,74 @@
+<<<<<<< HEAD
 .contain {
+=======
+.field {
+    width: 400px;
+    height: 400px;
+    margin: 100px auto;
+    border: 1px solid black;
+    position: relative;
+}
+.block1 {
+    width: 150px;
+    height: 240px;
+    background: yellow;
+    position: absolute;
+    bottom: 0;
+    left: 120px;
+}
+.window1 {
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+    position: absolute;
+    bottom: 50px;
+    left: 200px;
+}
+.window2 {
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+    position: absolute;
+    bottom: 110px;
+    left: 130px;
+}
+.window3 {
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+    position: absolute;
+    bottom: 170px;
+    left: 130px;
+}
+.window4 {
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+    position: absolute;
+    bottom: 110px;
+    left: 200px;
+}
+.window5 {
+    width: 50px;
+    height: 50px;
+    background-color: blue;
+    position: absolute;
+    bottom: 170px;
+    left: 200px;
+}
+
+.door {
+    width: 50px;
+    height: 100px;
+    background-color: green;
+    position: absolute;
+    bottom: 0;
+    left: 130px;
+}
+=======
+
+.container {
+>>>>>>> 1c63de7eb720b9845c202ecfde30413d806348b9
     width: 200px;
     height: 320px;
     background-color: rgb(78, 178, 250);
