@@ -62,3 +62,103 @@
     bottom: 0;
     left: 130px;
 }
+=======
+
+.container {
+    width: 200px;
+    height: 320px;
+    background-color: rgb(78, 178, 250);
+    position: relative;
+    top: 300px;
+    left: 710px;
+}
+
+.block_1 {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(212, 212, 111);
+    position: absolute;
+    right: 132px;
+    top: 20px;
+}
+
+.block_2 {
+    width: 80px;
+    height: 110px;
+    background-color: rgb(212, 212, 111);
+    position: absolute;
+    left: 100px;
+    top: 20px;
+}
+
+.block_3 {
+    width: 50px;
+    height: 50px;
+    background-color: rgb(212, 212, 111);
+    position: absolute;
+    right: 132px;
+    bottom: 110px;
+
+}
+
+.block_4 {
+    width: 50px;
+    height: 120px;
+    background-color: violet;
+    bottom: 0;
+    position: absolute;
+    left: 85px;
+}
+.block{
+    background-color: rgb(163, 67, 252);
+    width:250px;
+    height:350px;
+    top:200px;
+    left:1000px;
+    box-sizing:border-box;
+    position:relative;
+}
+.item{
+    width:50px;
+    height:50px;
+    position:absolute;
+}
+.first-container{
+    left: 30px;
+    top:15px;
+    background-color: rgb(6, 83, 109);
+}
+.second-container{
+    left:130px;
+    top:15px;
+    background-color:rgb(6, 83, 109);
+}
+.third-container{
+    top:90px;
+    left:40px;
+    background-color: rgb(6, 83, 109);
+}
+.fourth-container{
+    background-color: rgb(6, 83, 109);
+    top:90px;
+    left:140px;
+}
+.fifth-container{
+    background-color:rgb(6, 83, 109);
+    top:170px;
+    left:30px;
+}
+.sixth-container{
+    background-color:rgb(6, 83, 109);;
+    top:170px;
+    left:140px;
+}
+
+.seventh-container{
+    position:absolute;
+    width:70px;
+    height:100px;
+    background-color: yellow;
+    bottom:0px;
+    left:70px;
+}
